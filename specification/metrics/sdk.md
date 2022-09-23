@@ -442,7 +442,7 @@ or equal to the measurement.
 
 ##### Exponential Bucket Histogram Aggregation
 
-**Status**: [Experimental](../document-status.md)
+**Status**: [Stable](../document-status.md)
 
 The Exponential Histogram Aggregation informs the SDK to collect data
 for the [Exponential Histogram Metric
