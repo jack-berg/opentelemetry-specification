@@ -3,7 +3,7 @@
 Welcome to OpenTelemetry specifications repository!
 
 Before you start - see OpenTelemetry general
-[contributing](https://github.com/open-telemetry/community/blob/main/CONTRIBUTING.md)
+[contributing](https://github.com/open-telemetry/community/tree/main/guides/contributor)
 requirements and recommendations.
 
 ## Sign the CLA
